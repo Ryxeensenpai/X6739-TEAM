@@ -1,0 +1,31 @@
+Changelogs 21/07/2024
+
+X6739: Drop MTK audiopreprocessing
+X6739: sepolicy: Address system_suspend kernel wakelock denials
+X6739: Disable serial console notification
+X6739: Disable client composition cache
+X6739: Move system.prop logging
+X6739: Switch to new AIDL memtrack HAL
+X6739: Reboot to recovery if init fails
+X6739: Migrate to AIDL ClearKey DRM HAL
+X6739: Add libcamera_metadata shim for stripping out system camera cap
+X6739: Build missing libraries for 14 QPR3
+X6739: Fix audio on QPR3 with alsa audio
+X6739: Structure partitions in fstab.mt6893
+X6739: configs: Add biometrics fingerprint
+X6739: Clean-up main platform init script
+X6739: Unify connectivity init scripts
+X6739: Remove InCallService
+X6739: sepolicy: Address radio vodata property denial
+X6739: sepolicy: Silence vendor_init neverallow
+X6739: sepolicy: Address ro.vendor.qti.va_aosp.support prop denials
+X6739: sepolicy: Address property denials
+X6739: Build AIDL power stats
+X6739: Compile missing lib for ldac
+X6739: Build android.hardware.audio.sounddose-vendor-impl
+X6739: Declare graphics allocator
+X6739: Build missing C2 media codecs
+X6739: Include device FCM from vendor/lineage
+X6739: Switch to skiaglthreaded renderthread backend
+X6739: Disable connsys core dumping
+
