@@ -1,5 +1,21 @@
-Changelogs 21/07/2024
+Changelogs 
 
+23/07/2024
+X6739: Switch system, system_ext and product to ext4 on non-gms builds
+X6739: Add ext4 file system to product and system_ext
+X6739: Uprev graphics composer version
+X6739: Move path declaration into device.mk
+X6739: Set setup-makefiles.sh as executable
+X6739: Add a script to reorder blobs list
+X6739: Reserve additional space on system/system_ext/product
+X6739: Fix OTA post-install file system types
+X6739: Add config_wallpaperMaxScale
+X6739: vibrator: Only handle actually supported effects
+X6739: overlay: Enable auto-power-save modes
+
+
+
+21/07/2024
 X6739: Drop MTK audiopreprocessing
 X6739: sepolicy: Address system_suspend kernel wakelock denials
 X6739: Disable serial console notification
