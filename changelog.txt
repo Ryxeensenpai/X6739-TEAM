@@ -1,5 +1,13 @@
 Changelogs 
 
+24/12/2024
+* Switch to Pixel Thermal
+* Fix Vibrator
+* Fix Media Codec 
+* HDR Support On
+* Enable Zram, etc
+* Selinux Enforcing
+
 23/07/2024
 X6739: Switch system, system_ext and product to ext4 on non-gms builds
 X6739: Add ext4 file system to product and system_ext
