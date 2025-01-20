@@ -1,4 +1,13 @@
 Changelogs 
+20/01/2025
+* Fix Audio DAC
+* Fix Offline Charger
+* Set Default Volume use value stock XOS
+* Fix GPS
+* rework Configs Display
+* Screen Record Max To 120FPS
+* Lock game to Max 120FPS
+* Add Performance Android Go tuning
 
 24/12/2024
 * Switch to Pixel Thermal
