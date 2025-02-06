@@ -1,4 +1,18 @@
-Changelogs 
+Changelogs :
+
+06/02/2025
+* Drop EngineerMode
+* Drop Audio DTS
+* Fix Keyguard bottom
+* Set appropriate dalvik props for 8GB ram device
+* Drop Smooth Display
+* Set 5 rows in the QuickSettings
+* Change default governor to schedutil for better experience
+* Optimize native executables for Cortex-A55 CPU
+* Add Dolby Atmos
+* Set default navigation bar use gestures
+* Etc
+
 20/01/2025
 * Fix Audio DAC
 * Fix Offline Charger
