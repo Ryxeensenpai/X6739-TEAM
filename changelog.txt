@@ -1,5 +1,16 @@
 Changelogs :
 
+14/02/2025
+* Drop speed profiles services
+* Add more dalvik tweaks and etc
+* Add RIL power saving tweaks to reduce battery drain
+* Re-Configure Architectures
+* Fix screen record lag
+* Enable blur effect for custom rom that support this feature
+* Drop vendor boot image temporarily (it will be separate from rom so make sure you flash vendor boot first before do custom rom)
+* Don't include Audio Fx on custom rom based on lineage
+* Implement undervolt CPU while idle mode
+
 06/02/2025
 * Drop EngineerMode
 * Drop Audio DTS
